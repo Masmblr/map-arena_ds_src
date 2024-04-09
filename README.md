@@ -51,10 +51,10 @@ Some textures I have drawn for the map: </br>
 [<img src="meta/preview_textures/22.jpg" width="100"/>](meta/preview_textures/22.jpg)
 
 ## Version History:
-| Version: | Date:        | Status: | Release Build (.pk3):       
-| ------- | ------------- | ------: | -----------------: |
-| 1.0     | 01/10/2017  | stable | :x:        |     
-| 1.1     | 16/08/2023  | final | [💾](https://github.com/Masmblr/map-Arena_DS_src/releases/tag/v1.1) |
+| Version: | Date:        | Status: |     
+| ------- | ------------- | ------: |
+| 1.0     | 01/10/2017  | stable |
+| 1.1     | 16/08/2023  | final |
 
 ## How-To
 **Binary**:
