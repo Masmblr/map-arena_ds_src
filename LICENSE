@@ -1,0 +1,104 @@
+Arena_DS Legal Information File
+https://github.com/Masmblr
+===================================
+
+ASSETS
+======
+
+This is a complete list of all media assets included in this project, along with their respective authors and license information.
+Derivative files are marked with (modified by …) and retain the original license unless otherwise noted.
+
+
+Assets by Matthias Peters (Masmblr) © 2013 – 2025 
+License: CC BY-NC-SA 4.0 (see docs/licenses/CreativeCommons_CC-NC-SA_4.0.txt)
+----
+.gitignore
+LICENSE
+README.md
+docs/header/header.jpg
+docs/header/header.kra
+docs/screenshots/1.jpg
+docs/screenshots/2.jpg
+docs/screenshots/3.jpg
+docs/screenshots/4.jpg
+docs/screenshots/5.jpg
+docs/screenshots/6.jpg
+docs/screenshots/7.jpg
+docs/screenshots/8.jpg
+docs/screenshots/9.jpg
+docs/screenshots/comparison_01.jpg
+docs/screenshots/comparison_02.jpg
+docs/screenshots/comparison_03.jpg
+src/VERSION
+src/levelshots/arena_ds.jpg
+src/maps/arena_ds.map
+src/scripts/arena_ds.arena
+src/scripts/arena_ds.shader
+src/scripts/shaderlist.txt
+src/textures/arena_ds/black.jpg
+src/textures/arena_ds/ds_banner.tga
+src/textures/arena_ds/env.jpg
+src/textures/arena_ds/material_silver_env.jpg
+src/textures/arena_ds/pipe_01.jpg
+src/textures/arena_ds/sfx_01.jpg
+src/textures/arena_ds/sfx_05.jpg
+src/textures/arena_ds/sfx_05_a.jpg
+src/textures/arena_ds/sfx_05_h.jpg
+src/textures/arena_ds/sfx_detail.jpg
+src/textures/arena_ds/sfx_detail_ds.jpg
+src/textures/arena_ds/water_01.jpg
+
+
+Assets by batuhansezer
+License: CC BY 4.0 (see docs/licenses/CreativeCommons_CC-BY-4.0.txt)
+----
+src/sounds/arena_ds/door_lock.wav (modified by Masmblr)
+src/sounds/arena_ds/door_lock_reverse.wav (modified by Masmblr)
+
+
+Assets by StrangeAcoustics
+License: CC BY 4.0 (see docs/licenses/CreativeCommons_CC-BY-4.0.txt)
+----
+src/sounds/arena_ds/door_ready.wav (modified by Masmblr)
+
+
+Assets by DBS_Sounds
+License: CC BY 4.0 (see docs/licenses/CreativeCommons_CC-BY-4.0.txt)
+----
+src/sounds/arena_ds/lift_end.wav (modified by Masmblr)
+src/sounds/arena_ds/lift_work.wav (modified by Masmblr)
+
+
+Assets by Artninja
+License: CC BY 4.0 (see docs/licenses/CreativeCommons_CC-BY-4.0.txt)
+----
+src/sounds/arena_ds/machine_pump.wav (modified by Masmblr)
+
+
+Assets by blaukreuz
+License: CC0 (see docs/licenses/CreativeCommons__CC0_1.0.txt)
+----
+src/sounds/arena_ds/machine_idle.wav (modified by Masmblr)
+
+
+Assets by nsstudios
+License: CC BY 4.0 (see docs/licenses/CreativeCommons_CC-BY-4.0.txt)
+----
+src/sounds/arena_ds/ambient_wind.wav (modified by Masmblr)
+
+ 
+Assets by MegaKosan
+License: CC BY 4.0 (see docs/licenses/CreativeCommons_CC-BY-4.0.txt)
+----
+src/env/arena_ds/skybox_bk.jpg
+src/env/arena_ds/skybox_dn.jpg
+src/env/arena_ds/skybox_ft.jpg
+src/env/arena_ds/skybox_lf.jpg
+src/env/arena_ds/skybox_rt.jpg
+src/env/arena_ds/skybox_up.jpg
+
+
+Assets by Oblivion
+License: CC BY 4.0 (see docs/licenses/CreativeCommons_CC-BY-4.0.txt)
+----
+src/textures/arena_ds/plate_ds.jpg (modified by Masmblr)
