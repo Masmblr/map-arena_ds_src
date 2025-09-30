@@ -1,0 +1,55 @@
+# Core settings
+* text=auto eol=lf
+
+# Documentation / text files
+*.md      text
+*.txt     text
+*.cfg     text
+*.shader  text
+*.arena   text
+*.map     text
+*.particle text
+*.ini     text
+*.json    text
+*.xml     text
+
+# Scripts
+*.sh      text eol=lf
+*.bat     text eol=crlf
+*.ps1     text eol=crlf
+*.py      text
+*.js      text
+
+# Binary assets - no diff
+*.jpg     binary
+*.jpeg    binary
+*.png     binary
+*.tga     binary
+*.kra     binary
+*.gif     binary
+*.psd     binary
+
+*.wav     binary
+*.mp3     binary
+*.ogg     binary
+*.opus    binary
+
+*.md3     binary
+*.pk3     binary
+*.zip     binary
+
+*.exe     binary
+*.dll     binary
+*.so      binary
+*.dylib   binary
+
+# Keep VERSION file as text
+VERSION   text
+
+# Quake-specific text files
+*.shader linguist-language=GLSL
+*.arena  linguist-language=INI
+*.map    linguist-language=INI
+*.shader text
+*.arena  text
+*.map    text

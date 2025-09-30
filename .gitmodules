@@ -1,0 +1,4 @@
+[submodule "deps/mas02-Texture-Set"]
+	path = deps/mas02-Texture-Set
+	url = https://github.com/Masmblr/mas02-Texture-Set.git
+	branch = ioquake3-dev
