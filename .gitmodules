@@ -2,3 +2,6 @@
 	path = deps/mas02-ioq3-dev
 	url = https://github.com/Masmblr/mas02-Texture-Set.git
 	branch = mas02-ioq3-dev
+[submodule "deps/tremulous-map-common"]
+	path = deps/tremulous-map-common
+	url = https://github.com/Masmblr/tremulous-map-common.git
