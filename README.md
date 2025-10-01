@@ -60,7 +60,7 @@ chmod +x merge_deps.sh
 ./merge_deps.sh
 ```  
 
-Windows PowerShell: ``
+Windows PowerShell:  
 ```ps
 Set-ExecutionPolicy -Scope Process -ExecutionPolicy Bypass
 .\merge_deps.ps1
