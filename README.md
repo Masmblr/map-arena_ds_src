@@ -54,8 +54,17 @@ git clone --recurse-submodules https://github.com/Masmblr/map-arena_ds_src.git
 ```
 
 Run one of these scripts to merge the dependencies into the project structure:  
-Linux Bash: `./merge_deps.sh`  
-Windows PowerShell: `.\merge_deps.ps1`
+Linux Bash:  
+```bash
+chmod +x merge_deps.sh
+./merge_deps.sh
+```  
+
+Windows PowerShell: ``
+```ps
+Set-ExecutionPolicy -Scope Process -ExecutionPolicy Bypass
+.\merge_deps.ps1
+```  
 
 Copy the contents of `src/` into your game base folder: `tremulous/base/`
 
