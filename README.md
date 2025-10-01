@@ -54,14 +54,13 @@ git clone --recurse-submodules https://github.com/Masmblr/map-arena_ds_src.git
 ```
 
 Run one of these scripts to merge the dependencies into the project structure:  
-Linux Bash:  
-```bash
+ 
+```console
+# Linux / macOS
 chmod +x merge_deps.sh
-./merge_deps.sh
-```  
+./merge_deps.sh  
 
-Windows PowerShell:  
-```ps
+# Windows PowerShell
 Set-ExecutionPolicy -Scope Process -ExecutionPolicy Bypass
 .\merge_deps.ps1
 ```  
