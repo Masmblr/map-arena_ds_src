@@ -34,7 +34,7 @@ The side tunnels were supplemented with a connection to the front.
 <img src="docs/images/8.jpg" width="250">
 <img src="docs/images/9.jpg" width="250">
 
-Comparison Screenshots of the original DS Arena and this remake:</p>
+Comparison screenshots of the original DS Arena and this remake:</p>
   <img src="docs/images/comparison_01.jpg" width="600">
   <img src="docs/images/comparison_02.jpg" width="600">
   <img src="docs/images/comparison_03.jpg" width="600">
@@ -57,9 +57,9 @@ Run one of these scripts to merge the dependencies into the project structure:
 Linux Bash: `./merge_deps.sh`  
 Windows PowerShell: `.\merge_deps.ps1`
 
-Copy the contents of `src/` into your Game base folder: `tremulous/base/`
+Copy the contents of `src/` into your game base folder: `tremulous/base/`
 
-# Build
+### Build
 
 If you want to compile the map yourself instead of using the prebuilt .pk3:
 
@@ -67,7 +67,7 @@ If you want to compile the map yourself instead of using the prebuilt .pk3:
 2. Open `arena_ds.map` from `base/maps/`.	
 3. Use **Build -> Build with final settings**. 
 
-# Run
+### Run
 
 ```console
 # Linux / macOS
