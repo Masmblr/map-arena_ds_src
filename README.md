@@ -59,7 +59,9 @@ Run one of these scripts to merge the dependencies into the project structure:
 # Linux / macOS
 chmod +x merge_deps.sh
 ./merge_deps.sh  
+```
 
+```console
 # Windows PowerShell
 Set-ExecutionPolicy -Scope Process -ExecutionPolicy Bypass
 .\merge_deps.ps1
